@@ -8,9 +8,10 @@ Developed Fitness club application which includes feature like Fitness Tips,Fitn
 
 
 ### Home page of System
-![golds1](https://user-images.githubusercontent.com/41635465/187895579-5a111554-d7b6-41dc-bbf3-7eb5fd07a6a2.png)
-![gold![golds3](https://user-images.githubusercontent.com/41635465/187895597-fa25573d-b4f9-492b-b2a6-368874de9019.png)
-![golds3](https://user-images.githubusercontent.com/41635465/187896100-14c8e7b4-92c1-450a-8f6a-2be6d617b2b0.png)
+![golds1](https://user-images.githubusercontent.com/41635465/187896237-7d26e4e4-ea5d-437b-9558-d8b4449f7eb9.png)
+![golds2](https://user-images.githubusercontent.com/41635465/187896248-7f58dbe8-da96-4847-9bc4-b6e941223f30.png)
+
+![golds3](https://user-images.githubusercontent.com/41635465/187896253-dd33237e-e0da-447a-92e0-73624c4f5b95.png)
 
 
 
